@@ -1,0 +1,35 @@
+html {
+    background-color: rgb(216, 213, 213);
+    font-family: Arial, "Sans serif";
+}
+thead {
+    text-align: center;
+    background-color: hsl(300, 27%, 48%);
+  
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: #000000;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+  color: rgb(131, 26, 131);
+}
+
+table {
+  font-size: 20px;
+  color: #000000;
+  border:1px solid black;
+  margin-left:auto;
+  margin-right:auto;
+  width: 800px;
+  
+}
+
+th, td{
+    border-bottom: 1px solid rgb(189, 138, 184);
+}
